@@ -1,0 +1,109 @@
+{
+  "stations" : [
+    {
+      "id" : "station1",
+      "titleEn" : "Jesus is condemned to death",
+      "titlePt" : "Jesus é condenado à morte",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/1.jpg"
+    },
+    {
+      "id" : "station2",
+      "titleEn" : "Jesus carries his cross",
+      "titlePt" : "Jesus carrega a sua cruz",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/2.jpg"
+    },
+    {
+      "id" : "station3",
+      "titleEn" : "Jesus falls the first time",
+      "titlePt" : "Jesus cai pela primeira vez",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/3.jpg"
+    },
+    {
+      "id" : "station4",
+      "titleEn" : "Jesus meets his mother",
+      "titlePt" : "Jesus se encontra com sua mãe",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/4.jpg"
+    },
+    {
+      "id" : "station5",
+      "titleEn" : "Simon of Cyrene helps Jesus carry the cross",
+      "titlePt" : "Simão ajuda Jesus a carregar a sua cruz",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/5.jpg"
+    },
+    {
+      "id" : "station6",
+      "titleEn" : "Veronica wipes the face of Jesus",
+      "titlePt" : "Verônica enxuga o rosto de Jesus",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/6.jpg"
+    },
+    {
+      "id" : "station7",
+      "titleEn" : "Jesus falls the second time",
+      "titlePt" : "Jesus cai pela segunda vez",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/7.jpg"
+    },
+    {
+      "id" : "station8",
+      "titleEn" : "Jesus meets the women of Jerusalem",
+      "titlePt" : "Jesus consola as mulheres de Jerusalém",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/8.jpg"
+    },
+    {
+      "id" : "station9",
+      "titleEn" : "Jesus falls the third time",
+      "titlePt" : "Jesus cai pela terceira vez",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/9.jpg"
+    },
+    {
+      "id" : "station10",
+      "titleEn" : "Jesus is stripped of his garments",
+      "titlePt" : "Jesus é despojado de suas vestes",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/10.jpg"
+    },
+    {
+      "id" : "station11",
+      "titleEn" : "Jesus is nailed to the cross",
+      "titlePt" : "Jesus é pregado na cruz",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/11.jpg"
+    },
+    {
+      "id" : "station12",
+      "titleEn" : "Jesus dies on the cross",
+      "titlePt" : "Jesus morre na cruz",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/12.jpg"
+    },
+    {
+      "id" : "station13",
+      "titleEn" : "Jesus is taken down from the cross",
+      "titlePt" : "Jesus é descido da cruz",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/13.jpg"
+    },
+    {
+      "id" : "station14",
+      "titleEn" : "Jesus is laid in the tomb",
+      "titlePt" : "Jesus é sepultado",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/14.jpg"
+    },
+    {
+      "id" : "station15",
+      "titleEn" : "the Resurrection of Jesus",
+      "titlePt" : "A ressurreição de Jesus",
+      "description" : "",
+      "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/15.jpg"
+    }
+  ]
+}
