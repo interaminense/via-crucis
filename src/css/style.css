@@ -10,6 +10,7 @@ body {
   background-image: url(https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/bg-texture-2.jpg);
   font-size: 20px;
   font-family: 'Cinzel Decorative', cursive;
+  background-attachment: fixed;
 }
 
 .title {
