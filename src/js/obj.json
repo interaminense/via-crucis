@@ -2,107 +2,152 @@
   "s" : [
     {
       "id" : "1",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "Jesus is condemned to death",
       "titlePt" : "Jesus é condenado à morte",
-      "description" : "",
+      "descriptionEn" : "Prayer: Kept silence. O Jesus silent, teach me to shut up and keep quiet, even in suffering!",
+      "descriptionPt" : "Oração: Guardaste silêncio. Ó Jesus silencioso, ensina-me a calar e a guardar silêncio, inclusive no sofrimento!",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/1.jpg"
     },
     {
       "id" : "2",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "Jesus carries his cross",
       "titlePt" : "Jesus carrega a sua cruz",
-      "description" : "",
+      "descriptionEn" : "Prayer: Jesus, teach me to understand your words: 'If anyone wants to follow me, take up his cross and follow me.'",
+      "descriptionPt" : "Oração: Jesus, ensina-me a compreender tuas palavras: 'Se alguém quiser me seguir, tome sua cruz e siga-me'.",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/2.jpg"
     },
     {
       "id" : "3",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "Jesus falls the first time",
       "titlePt" : "Jesus cai pela primeira vez",
-      "description" : "",
+      "descriptionEn" : "Prayer: Jesus, give me strength to get me out of my falls. Anima my discouragements.",
+      "descriptionPt" : "Oração: Jesus, dá-me forças para levantar-me das minhas quedas. Anima meus desânimos.",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/3.jpg"
     },
     {
       "id" : "4",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "Jesus meets his mother",
       "titlePt" : "Jesus se encontra com sua mãe",
-      "description" : "",
+      "descriptionEn" : "Prayer: Mary, who won all human respect you were able to console your Son on the road to Calvary, help me to experience your look in my troubles and afflictions.",
+      "descriptionPt" : "Oração: Maria, que vencendo todo respeito humano foste capaz de consolar teu Filho no caminho do calvário, ajuda-me a experimentar teu olhar nas minhas dificuldades e aflições.",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/4.jpg"
     },
     {
       "id" : "5",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "Simon of Cyrene helps Jesus carry the cross",
       "titlePt" : "Simão ajuda Jesus a carregar a sua cruz",
-      "description" : "",
+      "descriptionEn" : "Prayer: Jesus, and Simon helped you carry the cross, help me in my weaknesses and difficulties.",
+      "descriptionPt" : "Oração: Jesus, assim como Simão te ajudou a carregar a cruz, ajuda-me nas minhas fraquezas e dificuldades.",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/5.jpg"
     },
     {
       "id" : "6",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "Veronica wipes the face of Jesus",
       "titlePt" : "Verônica enxuga o rosto de Jesus",
-      "description" : "",
+      "descriptionEn" : "Prayer: Jesus, put your image in my heart, and I always remember it.",
+      "descriptionPt" : "Oração: Jesus, grava tua imagem em meu coração, e que eu sempre me lembre dela.",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/6.jpg"
     },
     {
       "id" : "7",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "Jesus falls the second time",
       "titlePt" : "Jesus cai pela segunda vez",
-      "description" : "",
+      "descriptionEn" : "Prayer: Jesus, who do not tire you my constant falls!",
+      "descriptionPt" : "Oração: Jesus, que não te cansem minhas constantes quedas!",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/7.jpg"
     },
     {
       "id" : "8",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "Jesus meets the women of Jerusalem",
       "titlePt" : "Jesus consola as mulheres de Jerusalém",
-      "description" : "",
+      "descriptionEn" : "Prayer: Jesus, help me to learn that carry your cross is much more than all the honors of the earth.",
+      "descriptionPt" : "Oração: Jesus, ajuda-me a aprender que carregar tua cruz é muito mais que todas as honras da terra.",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/8.jpg"
     },
     {
       "id" : "9",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "Jesus falls the third time",
       "titlePt" : "Jesus cai pela terceira vez",
-      "description" : "",
+      "descriptionEn" : "Prayer: Jesus, I do not lose hope when you try your cross in my life.",
+      "descriptionPt" : "Oração: Jesus, que eu não perca a esperança quando experimentar a tua cruz na minha vida.",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/9.jpg"
     },
     {
       "id" : "10",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "Jesus is stripped of his garments",
       "titlePt" : "Jesus é despojado de suas vestes",
-      "description" : "",
+      "descriptionEn" : "Prayer: Jesus, stripped of everything, for my sake, help me unhook me, for love of you, of all creatures, that You be my only treasure.",
+      "descriptionPt" : "Oração: Jesus, despojado de tudo, por amor a mim, ajuda-me a desprender-me, por amor a ti, de todas as criaturas, para que Tu sejas meu único tesouro.",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/10.jpg"
     },
     {
       "id" : "11",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "Jesus is nailed to the cross",
       "titlePt" : "Jesus é pregado na cruz",
-      "description" : "",
+      "descriptionEn" : "Prayer: Jesus, that we carry the cross without complaint, grant me never complain about for useless things, not to anyone, not inside.",
+      "descriptionPt" : "Oração: Jesus, que carregaste a cruz sem reclamar, concede-me jamais queixar-me por coisas inúteis, nem de ninguém, nem interiormente.",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/11.jpg"
     },
     {
       "id" : "12",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "Jesus dies on the cross",
       "titlePt" : "Jesus morre na cruz",
-      "description" : "",
+      "descriptionEn" : "Prayer: Jesus, help me to accept wholeheartedly the kind of death that you thought for me to accept it with all their troubles, pains and sorrows. Give me that time to unite myself to your death and offer my as consummation of my way towards you, here on earth.",
+      "descriptionPt" : "Oração: Jesus, ajuda-me a aceitar de todo coração o tipo de morte que pensaste para mim, a aceitá-la com todas as suas angústias, penas e dores. Concede-me nesse momento unir-me à tua morte e oferecer a minha como consumação do meu caminho rumo a ti, aqui na terra.",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/12.jpg"
     },
     {
       "id" : "13",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "Jesus is taken down from the cross",
       "titlePt" : "Jesus é descido da cruz",
-      "description" : "",
+      "descriptionEn" : "Prayer: Jesus, I can be in the arms of Mary in the most difficult moments of my life, and experience the loving protection of your holy Mother.",
+      "descriptionPt" : "Oração: Jesus, que eu possa estar nos braços de Maria nos momentos mais difíceis da minha vida, e experimentar a proteção amorosa da tua santa Mãe.",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/13.jpg"
     },
     {
       "id" : "14",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "Jesus is laid in the tomb",
       "titlePt" : "Jesus é sepultado",
-      "description" : "",
+      "descriptionEn" : "Prayer: Mary, my Mother, and John made you company as a child after the death of Jesus, I can always be with you, with the same feelings the beloved disciple of Jesus.",
+      "descriptionPt" : "Oração: Maria, minha Mãe, assim como João te fez companhia como um filho após a morte de Jesus, que eu possa sempre estar contigo, com os mesmos sentimentos do discípulo amado de Jesus.",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/14.jpg"
     },
     {
       "id" : "15",
+      "infoEn" : "Station",
+      "infoPt" : "Estação",
       "titleEn" : "the Resurrection of Jesus",
       "titlePt" : "A ressurreição de Jesus",
-      "description" : "",
+      "descriptionEn" : "Prayer: Lord, that meditation of your aches and pains destroy my pride, my heart soften and prepare to receive your unfailing love and forgiveness. Who, aware of my falls and defects in the midst of my pains and work, I seek you always and contemplating your open and wounded heart for love of me, I can dive into it like a drop of water, and lose me forever in the immensity of your mercy. Amen",
+      "descriptionPt" : "Oração: Senhor, que a meditação das tuas dores e sofrimentos destrua minha soberba, suavize meu coração e o prepare para receber teu inesgotável amor e perdão. Que, consciente das minhas quedas e defeitos, em meio às minhas penas e trabalhos, eu te busque sempre e que, contemplando teu coração aberto e ferido por amor a mim, eu possa mergulhar nele como uma gota de água, e me perca para sempre na imensidão da tua misericórdia. Amém",
       "image" : "https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/style2/15.jpg"
     }
   ]
