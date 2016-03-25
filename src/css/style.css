@@ -1,0 +1,151 @@
+@import url(https://fonts.googleapis.com/css?family=Cinzel+Decorative:400,700,900);
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-color: #000;
+  background-image: url(https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/bg-texture-2.jpg);
+  font-size: 20px;
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+.title {
+  text-align: center;
+  color: #fff;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+.pt-br {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  width: 29px;
+  height: 19px;
+  background-image: url(https://raw.githubusercontent.com/interaminense/via-crucis/master/src/images/flag.jpg);
+  background-position: 0 -20px;
+  cursor: pointer;
+}
+
+.pt-br.active {
+  background-position: 0 0;
+}
+
+.showDetail {
+  position: fixed;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.9);
+  display: none;
+  margin: auto;
+  width: 600px;
+  text-align: center;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  height: 340px;
+  box-shadow: 10px 10px 30px #000, 0 0 0 1px rgba(255, 255, 255, 0.1) inset;
+}
+
+.showDetail.showAnimate {
+  animation: fadeIn .5s cubic-bezier(0.22, 0.61, 0.36, 1);
+  display: block;
+}
+
+.showDetail p.title {
+  padding: 16px 60px;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.showDetail p.description {
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  line-height: 25px;
+  padding: 0 60px;
+  font-style: italic;
+}
+
+.showDetail .info {
+  font-size: 20px;
+  margin: 0;
+}
+
+.showDetail .remove {
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 10px 15px;
+  font-size: 12px;
+  font-family: Arial, sans-serif;
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.showDetail .remove:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.frames {
+  width: 1210px;
+  margin: 0 auto;
+}
+
+.frames .inner {
+  float: left;
+  width: 100%;
+  padding: 10px 0;
+}
+
+.frames .inner .picture {
+  position: relative;
+  width: 222px;
+  height: 315px;
+  float: left;
+  margin: 20px 10px;
+  background-size: 100% 100%;
+  background-position: center;
+  transition: all .1s ease-in-out;
+  box-shadow: 3px 3px #A67635 inset, -3px -3px #A67635 inset, 6px 6px #503214 inset, -6px -6px #503214 inset, 7px 7px #A7854D inset, -7px -7px #A7854D inset, 8px 8px #673518 inset, -8px -8px #673518 inset, 10px 10px #875E2D inset, -10px -10px #875E2D inset, 11px 11px 1px rgba(0, 0, 0, 0.6) inset, -11px -11px 1px rgba(0, 0, 0, 0.6) inset, 18px 18px #B9934A inset, -18px -18px #B9934A inset, 19px 19px 1px rgba(0, 0, 0, 0.6) inset, -19px -19px 1px rgba(0, 0, 0, 0.6) inset, 10px 30px 40px rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+}
+
+.frames .inner .picture:hover, .frames .inner .picture.active {
+  box-shadow: 0 0 150px rgba(255, 255, 255, 0.4), 0 0 0 3px #fff, 3px 3px #A67635 inset, -3px -3px #A67635 inset, 6px 6px #503214 inset, -6px -6px #503214 inset, 7px 7px #A7854D inset, -7px -7px #A7854D inset, 8px 8px #673518 inset, -8px -8px #673518 inset, 10px 10px #875E2D inset, -10px -10px #875E2D inset, 11px 11px 1px rgba(0, 0, 0, 0.6) inset, -11px -11px 1px rgba(0, 0, 0, 0.6) inset, 18px 18px #fff inset, -18px -18px #fff inset, 19px 19px 1px rgba(0, 0, 0, 0.6) inset, -19px -19px 1px rgba(0, 0, 0, 0.6) inset, 10px 30px 40px rgba(0, 0, 0, 0.6);
+  -webkit-filter: contrast(2);
+  filter: contrast(2);
+}
+
+.frames .inner .picture .info {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  bottom: -30px;
+  color: #E2C793;
+  text-shadow: 2px 2px #000;
+  font-size: 15px;
+}
+
+.frames .inner .picture:hover .info {
+  color: #fff;
+}
+
+.frames .inner .picture .bg {
+  width: calc(100% - 36px);
+  height: calc(100% - 36px);
+  margin: 18px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.4);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}

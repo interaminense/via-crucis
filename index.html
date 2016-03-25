@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Via Crúcis</title>
+  <link rel="stylesheet" href="src/css/style.css" charset="utf-8">
+</head>
+<body>
+  <main ng-app="viaCrucis" ng-controller="ctrlMain">
+
+    <h1 ng-if="pt" class="title">{{data.titlePt}}</h1>
+    <h1 ng-if="!pt" class="title">{{data.titleEn}}</h1>
+
+    <div class="pt-br" ng-class="{'active' : pt}" ng-click="pt = !pt"></div>
+
+    <div class="frames">
+      <div class="inner">
+        <div class="picture" ng-repeat="item in data.s" ng-click="detail(item.id, $event)">
+          <img class="bg" src="{{item.image}}" />
+          <span ng-if="pt" class="info">{{item.id}}ª {{item.infoPt}}</span>
+          <span ng-if="!pt" class="info">{{item.id}}ª {{item.infoEn}}</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="showDetail" ng-repeat="item in data.s" ng-class="{'showAnimate' : showItem == item.id && isClose == false}">
+
+      <p class="title" ng-if="pt">{{item.titlePt}}</p>
+      <p class="title" ng-if="!pt">{{item.titleEn}}</p>
+
+      <p class="info" ng-if="pt">{{item.id}}ª {{item.infoPt}}</p>
+      <p class="info" ng-if="!pt">{{item.id}}ª {{item.infoEn}}</p>
+
+      <p class="description" ng-if="pt">{{item.descriptionPt}}</p>
+      <p class="description" ng-if="!pt">{{item.descriptionEn}}</p>
+
+      <div class="remove" ng-click="close()">x</div>
+
+    </div>
+
+  </main>
+
+  <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.2/angular.min.js"></script>
+  <script type="text/javascript" src="src/js/script.js"></script>
+
+</body>
+</html>
